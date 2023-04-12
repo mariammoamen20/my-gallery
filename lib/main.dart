@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:gallery/bloc_observer.dart';
 import 'package:gallery/modules/gallery/screens/gallery_screen.dart';
-import 'package:gallery/modules/login/screens/login_screen.dart';
 import 'package:gallery/shared/network/remote/dio_helper.dart';
 import 'package:gallery/shared/styles/themes.dart';
 
